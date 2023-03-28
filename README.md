@@ -14,9 +14,7 @@ In todays world the one thing you can depend on is things being undependable, fo
 
 ## Installation
 
-Simply click the heroku URL link below and go to the webpage. To install the application to your desktop click the install button in the top right hand corner as shown on the screenshot below.
-
-
+Simply click the heroku URL link below and go to the webpage. To install the application to your desktop click the install button in the top right hand corner.
 
 ## Usage
 
@@ -24,7 +22,7 @@ After launching the application you will see a window open with a similar layout
 
 ## Credits
 
-
+https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide
 
 ## License
 
